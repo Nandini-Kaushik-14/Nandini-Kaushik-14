@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nandini-Kaushik-14
-- 👀 I’m interested in Cyber security and Coding ( C, java, python)
-- 🌱 I’m currently learning DSA in java, full stack.
-- 💞️ I’m looking to collaborate on any coding related contest
-- 📫 To reach out me : drop an email
+- 👋 Hi, I’m Nandini Kaushik
+- 👀 I’m interested in Coding and building real world projects.
+- 🌱 I’m currently learning cloud computing along with DSA and fullstack.
+- 💞️ I’m looking to collaborate on any coding related contest or projects.
+- 📫 To reach out me : drop an email at nandini.kaushik_cs23@gla.ac.in
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Calm explorer
 
